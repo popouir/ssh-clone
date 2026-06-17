@@ -1,3 +1,5 @@
 venv/
+SSH/
+pyvenv.cfg
 __pycache__/
 *.pyc
